@@ -7,9 +7,9 @@ function Navbar (){
             </div>
             <nav>
                 <ul>
-                    <a href="/"><li>Home</li></a>
+                    <a href="/"><li>Inicio</li></a>
                     <a href="#"><li>Pokédex</li></a>
-                    <a href="#"><li>Legendaries</li></a>
+                    <a href="#"><li>Legendarios</li></a>
                     
                 </ul>
             </nav>
