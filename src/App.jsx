@@ -1,10 +1,16 @@
 
 
 
+import Landingpage from "./Components/Landingpage";
+import Navbar from "./Components/Navbar";
+import "./Style/App.css"
+
+
 function App() {
   return (
     <div className="App">
-      <h1>hola mundo</h1>
+      <Navbar/>
+      <Landingpage/>
     </div>
   );
 }

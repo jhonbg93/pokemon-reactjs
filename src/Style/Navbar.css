@@ -1,0 +1,40 @@
+header{
+    display: flex;
+        
+}
+ul{
+    display: inline-flex;
+    margin: auto;
+    align-items: left;
+    margin-left: 48rem;
+    margin-top: 2rem;
+    
+    
+}
+li{
+    margin-left: 2rem;
+    list-style: none;  
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    padding-top: 1rem ;
+    padding-left: 2rem;
+}
+
+img{
+    height: 3rem;
+}
+
+nav{
+    /* border: 1px solid black; */
+    width: 90%;
+    text-align: left;
+
+}
+
+
