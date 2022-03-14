@@ -2,14 +2,14 @@
 
 
 import Landingpage from "./Components/Landingpage";
-import Navbar from "./Components/Navbar";
+import Logolanding from "./Components/Logolanding";
 import "./Style/App.css"
 
 
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Logolanding/>
       <Landingpage/>
     </div>
   );

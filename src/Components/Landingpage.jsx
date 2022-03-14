@@ -1,3 +1,5 @@
+import "../Style/ingresar.css"
+import "../Style/pokeball.css";
 import "../Style/Landingpage.css";
 import Landingbutton from "./Landingbutton";
 function Landingpage() {
@@ -6,7 +8,7 @@ function Landingpage() {
         <img className="imgmisty" src="image/misty.png" alt="" />
     </div>
     <div className="ingresar">
-      <p>Descubre este maravilloso pokémundo</p>
+      <img className="pokeball" src="./image/pokeball.png" alt="Pokeball" />
       <Landingbutton/>
     </div>
     <div className="ash">

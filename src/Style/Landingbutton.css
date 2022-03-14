@@ -1,0 +1,16 @@
+.landingbutton {
+  width: 160px;
+  height: 160px;
+  margin-top: -20.4rem;
+  margin-left: 10rem;
+  position: relative;
+}
+
+button {
+  border: 30px solid grey;
+  border-radius: 50%;
+  height: 10rem;
+  width: 10rem;
+  position: absolute;
+  z-index: 1;
+}

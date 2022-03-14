@@ -1,3 +1,4 @@
+import "../Style/landingbutton.css"
 function Landingbutton(){
     return(
         <div className="landingbutton">

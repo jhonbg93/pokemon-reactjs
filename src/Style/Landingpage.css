@@ -1,22 +1,22 @@
 .Landing{
     display: flex;
-    border: 1px solid black;
+   /*  border: 1px solid black; */
 }
 
 .imgash{
     height: 30rem;
-    padding-left: 15rem;
+    padding-left: 20rem;
 }
 
 .ash{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 50%;
     z-index: 1;
     
 }
 
 .misty{
-    border: 1px red solid;
+    /* border: 1px red solid; */
     width: 50%;
     z-index: 1;
     
@@ -24,12 +24,12 @@
 
 .imgmisty{
     height: 30rem;
-    padding-left: 5rem;
+    padding-left: 0rem;
 }
 
 .ingresar{
     position: absolute;
-    border: solid 1px black;
+    /* border: solid 1px black; */
     margin-left: 40%;
     width: 15rem;
 }
